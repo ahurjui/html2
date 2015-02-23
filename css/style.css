@@ -26,6 +26,12 @@ body {
 	background-color: #020202;
 }
 
-.lvps.dropdown-menu li.hover {
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
 	background-color: #B4916B;
+}
+
+.dropdown-menu.lvps {
+	width: 112px;
+	min-width: 112px;
 }
