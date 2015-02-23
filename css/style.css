@@ -1,0 +1,31 @@
+body {
+  min-height: 2000px;
+  background-color: #F0F0F0;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+.navbar.lvps {
+	background-color: #F0F0F0;
+	border: none;
+}
+
+.navbar-nav>li>.dropdown-menu.lvps {
+	background-color: #020202;
+	padding: 0px;
+	margin-top: 5px;
+}
+
+.lvps .dropdown-menu>li>a {
+	color: white;
+}
+
+.lvps.dropdown-menu li {
+	background-color: #020202;
+}
+
+.lvps.dropdown-menu li.hover {
+	background-color: #B4916B;
+}
