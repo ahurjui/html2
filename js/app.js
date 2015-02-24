@@ -8,3 +8,4 @@ $('li').mouseout(function()
 {
     $(this).removeClass('hover');
 });
+
